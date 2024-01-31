@@ -1,7 +1,7 @@
-#Integrantes:
-#Miguel Carapaz
-#David Basantes
-#Jose Pinos
+# Integrantes:
+# Miguel Carapaz
+# David Basantes
+# Jose Pinos
 
 ## link apk funcional: https://drive.google.com/drive/folders/1kuydCbzpCE74pkM6qb1ytEDD_j6xjndq?usp=sharing
 
